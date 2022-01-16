@@ -1,2 +1,2 @@
 # HackerRank
-Practice - Interview Preparation Kits
+Practice
